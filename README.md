@@ -18,6 +18,9 @@ This is a simple web-based age calculator built using HTML, CSS, and JavaScript.
 - Input your date of birth or select two dates to calculate the duration.
 - View the results displayed on the webpage.
 
+live website
+
+https://nsanjayboruds.github.io/age-calculator/
 
 🏗️ Future Enhancements
 - Add support for calculating age in different units (weeks, hours, etc.).
